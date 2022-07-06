@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\nAbout Me\r\nHi! My name is Austin Zhuang, and I go to The\r\nHaverford School.\r\nAbout the Project\r\nI chose to analyze how financial factors affect access to mental\r\nhealth using data from IPUMS Health Surveys.\r\nGoals\r\nVisualize data on factors that affect mental health\r\nCreating the correct labels that tell the clearest story\r\n\r\nUse visualizations to promote mental health awareness\r\n“This is data science”\r\n\r\nPreceptor\r\n\r\nKane’s Free High School\r\nData Science bootcamp\r\nGithub\r\nRepository\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-06T12:57:47-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Adult Mental Health in the USA",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-06T12:57:48-04:00"
+    }
+  ],
+  "collections": []
+}

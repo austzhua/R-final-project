@@ -21,4 +21,5 @@ mental_plot |>
        fill = "Needed but couldn't\nafford mental health care", 
        caption = "Source: IPUMS Health Surveys")
 #Basing this graph off percentages (percentage of yes ybarmental vs total) instead of number
-#might make for a better commparsion
+#might make for a better comparison
+ggsave("k6plot.png")

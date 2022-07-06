@@ -1,0 +1,13 @@
+name: "."
+title: "Adult Mental Health in the USA"
+description: |
+  Adult Mental Health in the USA
+output_dir: "docs"
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "IPUMS National Health Surveys"
+output: distill::distill_article

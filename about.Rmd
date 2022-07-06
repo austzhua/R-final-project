@@ -1,0 +1,27 @@
+---
+title: "About this site"
+description: |
+  Some additional details about the website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## About Me
+Hi! My name is **Austin Zhuang**, and I go to The Haverford School.
+
+## About the Project
+I chose to analyze how financial factors affect access to mental health using data
+from IPUMS Health Surveys.
+
+### Goals
+* Visualize data on factors that affect mental health
+  + Creating the correct labels that tell the clearest story
+* Use visualizations to promote mental health awareness
+
+"This is data science"  
+~ Preceptor
+
+[Kane's Free High School Data Science bootcamp](https://bootcamp.davidkane.info/)
+
+[Github Repository](https://github.com/austzhua/final-project)
