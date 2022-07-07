@@ -1,0 +1,12 @@
+---
+title: "IPUMS National Health Surveys"
+description: |
+  Detailed notes for Source A
+bibliography: bibliography.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I used the IPUMS NHIS database for all my data[@IPUMS_NHIS]

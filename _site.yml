@@ -10,4 +10,5 @@ navbar:
     - text: "About"
       href: about.html
     - text: "IPUMS National Health Surveys"
+      href: sourceA.html
 output: distill::distill_article
