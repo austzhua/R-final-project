@@ -12,7 +12,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nAbout Me\r\nHi! My name is Austin Zhuang, and I go to The\r\nHaverford School.\r\nAbout the Project\r\nI chose to analyze how financial factors affect access to mental\r\nhealth using data from IPUMS Health Surveys.\r\nGoals\r\nVisualize data on factors that affect mental health\r\nCreating the correct labels that tell the clearest story\r\n\r\nUse visualizations to promote mental health awareness\r\n“This is data science”\r\n\r\nPreceptor\r\n\r\nKane’s Free High School\r\nData Science bootcamp\r\nGithub\r\nRepository\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-07T20:37:17-04:00"
+      "last_modified": "2022-07-07T20:45:22-04:00"
     },
     {
       "path": "index.html",
@@ -26,7 +26,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nIntroduction\r\nMental health has become an increasingly prevalent issue throughout\r\nthe United States. I wanted to know how financial factors affect access\r\nto mental health care. Some of these factors included income and whether\r\na person was above or below the poverty threshold. I found that both the\r\nnumber of people and the percentage of people who needed but could not\r\nafford mental health care was actually higher for those at or above the\r\npoverty threshold.\r\nData\r\n\r\n\r\n\r\n\r\nPlot 1\r\n\r\n\r\n\r\nPoverty doesn’t seem to affect access to mental health care as there\r\nis a larger number of people at or above the poverty threshold who\r\nclaimed they could not afford care. But a better way to truly compare\r\nthese two sides of the poverty threshold is to use percentages as there\r\nare far more responses from those at or above the poverty threshold.\r\nPlot 2\r\n\r\n\r\n\r\nLike the previous plot, this again shows that those at or above the\r\npoverty threshold can not afford mental health care. A possible reason\r\nfor this counter intuitive result is the subjectivity of the responses\r\nto “Needed but could not afford mental health care.” The explanation on\r\nthe IPUMS NHIS states that “‘Mental health care or counseling’ was\r\ndefined by the survey respondent.”(Blewett et al. 2021) The varying\r\ndefinitions that result from this may lead to the results of this\r\nanalysis\r\n\r\n\r\n\r\nBlewett, Lynn A., Julia A. Rivera Drew, Miriam L. King, Kari C. W.\r\nWilliams, Natalie Del Ponte, and Pat Convey. 2021. “IPUMS Health\r\nSurveys: National Health Interview Survey.” https://doi.org/https://doi.org/10.18128/D070.V7.1.\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-07T20:37:20-04:00"
+      "last_modified": "2022-07-07T20:45:25-04:00"
     },
     {
       "path": "sourceA.html",
@@ -40,7 +40,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nI used the IPUMS NHIS database for all my data(Blewett et al. 2021)\r\n\r\n\r\n\r\nBlewett, Lynn A., Julia A. Rivera Drew, Miriam L. King, Kari C. W.\r\nWilliams, Natalie Del Ponte, and Pat Convey. 2021. “IPUMS Health\r\nSurveys: National Health Interview Survey.” https://doi.org/https://doi.org/10.18128/D070.V7.1.\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-07T20:37:22-04:00"
+      "last_modified": "2022-07-07T20:45:26-04:00"
     }
   ],
   "collections": []

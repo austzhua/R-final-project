@@ -30,13 +30,13 @@ mental_plot <- readRDS("clean_data.rds")
 paged_table(mental_plot)
 ```
 
-### Plot 1
+## Plot 1
 ```{r}
 include_graphics("k6plot.png")
 ```
 Poverty doesn't seem to affect access to mental health care as there is a larger number of people at or above the poverty threshold who claimed they could not afford care. But a better way to truly compare these two sides of the poverty threshold is to use percentages as there are far more responses from those at or above the poverty threshold.
 
-### Plot 2
+## Plot 2
 ```{r}
 include_graphics("mental_plot2.png")
 ```
