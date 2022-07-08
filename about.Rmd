@@ -2,6 +2,9 @@
 title: "About this site"
 description: |
   Some additional details about my project and me
+author:
+  - name: Austin Zhuang 
+date: "`r Sys.Date()`"
 ---
 
 ```{r setup, include=FALSE}

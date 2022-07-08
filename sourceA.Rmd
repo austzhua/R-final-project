@@ -2,6 +2,9 @@
 title: "IPUMS National Health Surveys"
 description: |
   Detailed notes for Source A
+author:
+  - name: Austin Zhuang 
+date: "`r Sys.Date()`"
 bibliography: bibliography.bib
 ---
 
